@@ -13,9 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/limichange/dine-strapi-provider-upload-aws-s3.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "strapi",
+    "aws",
+    "s3",
+    "upload",
+    "plugin",
+    "provider"
+  ],
+  "author": "limichange",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/limichange/dine-strapi-provider-upload-aws-s3/issues"
   },
